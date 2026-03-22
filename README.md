@@ -1,2 +1,11 @@
-# rentahitmanSCRAPED
-RentAHitman.com is a satirical[1] website purporting to offer contract killers for hire. The site's domain was bought by Bob Innes in 2005 as a potential site for an information technology company to be set up with his friends (playing on the use of the word "hit" as a check on a website's security or the count of web traffic).
+Hello, I am potatos1233.
+
+I have scraped "https://rentahitman.com/" This is a joke website, of course.
+
+If you want more history about this website, go here: https://en.wikipedia.org/wiki/RentAHitman.com.
+
+If you want to donate to "https://rentahitman.com/," PayPal.me/punchline67
+
+Thank you and have a great day 
+
+(ps. if the owner of rentahitman wants me to take this down just contact me in the issues) 
