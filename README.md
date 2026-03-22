@@ -4,7 +4,7 @@ I have scraped "https://rentahitman.com/" This is a joke website, of course.
 
 If you want more history about this website, go here: https://en.wikipedia.org/wiki/RentAHitman.com.
 
-If you want to donate to "https://rentahitman.com/," PayPal.me/punchline67
+If you want to donate to "https://rentahitman.com/," : https://www.paypal.com/paypalme/punchline67
 
 Thank you and have a great day 
 
