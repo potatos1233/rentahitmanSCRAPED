@@ -1,5 +1,7 @@
 Hello, I am potatos1233.
 
+Scraped website: https://potatos1233.github.io/rentahitmanSCRAPED/
+
 I have scraped "https://rentahitman.com/" This is a joke website, of course.
 
 If you want more history about this website, go here: https://en.wikipedia.org/wiki/RentAHitman.com.
