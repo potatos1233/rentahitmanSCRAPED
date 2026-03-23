@@ -8,4 +8,6 @@ If you want to donate to "https://rentahitman.com/," : https://www.paypal.com/pa
 
 Thank you and have a great day 
 
+if you like my project please consider starring it
+
 (ps. if the owner of rentahitman wants me to take this down just contact me in the issues) 
